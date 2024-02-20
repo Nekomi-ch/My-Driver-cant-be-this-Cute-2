@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.1.18)  19 FEB 2024 23:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.1.18)  20 FEB 2024 14:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/Homework/Pipe Flow Lab Report/My-Driver-cant-be-this-Cute-2/main.tex"
-(d:/Homework/Pipe Flow Lab Report/My-Driver-cant-be-this-Cute-2/main.tex
+**"d:/MDCBTC V2/My-Driver-cant-be-this-Cute-2/main.tex"
+(d:/MDCBTC V2/My-Driver-cant-be-this-Cute-2/main.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
 (novel.cls
@@ -824,12 +824,12 @@ Package rerunfilecheck Info: File `main.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  19620 strings out of 475248
- 351016 string characters out of 5758285
+ 350696 string characters out of 5758285
  1926785 words of memory out of 5000000
  40601 multiletter control sequences out of 15000+600000
  672257 words of font info for 155 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
- 124i,12n,121p,1258b,531s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 124i,12n,121p,1238b,531s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb>
 Output written on main.pdf (5 pages, 1722616 bytes).
 PDF statistics:
