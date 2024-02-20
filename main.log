@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.1.18)  19 FEB 2024 21:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.1.18)  19 FEB 2024 23:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -560,7 +560,9 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmarkwidth=\skip66
 \thanksmargin=\skip67
 \droptitle=\skip68
-)) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+)) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2023/09/29 v3.95 The Babel package
 \babel@savecnt=\count318
 \U@D=\dimen274
@@ -607,50 +609,50 @@ Package iflang Info: Naming convention for patterns: babel.
 ) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/numspell\numspell-english.sty
 Package: numspell-english 2020/11/11 v1.2 English language package for numspell
 )
-LaTeX Font Info:    Trying to load font information for T1+EBGaramond-OsF on input line 24.
+LaTeX Font Info:    Trying to load font information for T1+EBGaramond-OsF on input line 27.
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/ebgaramond\t1ebgaramond-osf.fd
 File: T1EBGaramond-OsF.fd 2023/03/19 (autoinst) Font definitions for T1/EBGaramond-OsF.
 )
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 24.
- (main.aux)
+(Font)              scaled to size 12.0pt on input line 27.
+ (main.aux (chapters_JP/familiarface.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-Package hyperref Info: Link coloring OFF on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+Package hyperref Info: Link coloring OFF on input line 27.
  (main.out) (main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
-LaTeX Info: Redefining \microtypecontext on input line 24.
-Package microtype Info: Applying patch `item' on input line 24.
-Package microtype Info: Applying patch `toc' on input line 24.
-Package microtype Info: Applying patch `eqnum' on input line 24.
-Package microtype Info: Applying patch `verbatim' on input line 24.
+LaTeX Info: Redefining \microtypecontext on input line 27.
+Package microtype Info: Applying patch `item' on input line 27.
+Package microtype Info: Applying patch `toc' on input line 27.
+Package microtype Info: Applying patch `eqnum' on input line 27.
+Package microtype Info: Applying patch `verbatim' on input line 27.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 24.
+LaTeX Info: Redefining \showhyphens on input line 27.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -716,55 +718,55 @@ Package caption Info: End \AtBeginDocument code.
 \c@mv@tabular=\count332
 \c@mv@boldtabular=\count333
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 24.
+(Font)              scaled to size 20.74pt on input line 27.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 24.
+(Font)              scaled to size 24.88pt on input line 27.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 24.
+(Font)              scaled to size 24.88pt on input line 27.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/sc' will be
-(Font)              scaled to size 24.88pt on input line 24.
+(Font)              scaled to size 24.88pt on input line 27.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 24.
+(Font)              scaled to size 14.4pt on input line 27.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/sc' will be
-(Font)              scaled to size 14.4pt on input line 24.
+(Font)              scaled to size 14.4pt on input line 27.
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 24.
+(Font)              <14.4> on input line 27.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 24.
-<resources/MDCBTC_cover2.png, id=14, 619.45714pt x 825.94286pt>
+(Font)              <7> on input line 27.
+<resources/MDCBTC_cover2.png, id=10, 619.45714pt x 825.94286pt>
 File: resources/MDCBTC_cover2.png Graphic file (type png)
 <use resources/MDCBTC_cover2.png>
-Package pdftex.def Info: resources/MDCBTC_cover2.png  used on input line 24.
+Package pdftex.def Info: resources/MDCBTC_cover2.png  used on input line 27.
 (pdftex.def)             Requested size: 614.3042pt x 794.96301pt.
  [1
 
 
  <./resources/MDCBTC_cover2.png (PNG copy)>]
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 24.
+(Font)              scaled to size 10.0pt on input line 27.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' will be
-(Font)              scaled to size 14.4pt on input line 24.
+(Font)              scaled to size 14.4pt on input line 27.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 24.
+(Font)              scaled to size 12.0pt on input line 27.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 24.
+(Font)              <5> on input line 27.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 24.
+(Font)              scaled to size 10.0pt on input line 27.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.24 \begin{document}
+l.27 \begin{document}
                       [1
 
 {C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/ebgaramond/ebg_ljow5q.enc}{C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/ebgaramond/ebg_tcdnmr.enc}]
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' will be
-(Font)              scaled to size 20.74pt on input line 26.
+(Font)              scaled to size 20.74pt on input line 29.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/sc' will be
-(Font)              scaled to size 20.74pt on input line 26.
+(Font)              scaled to size 20.74pt on input line 29.
  (main.toc
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' will be
 (Font)              scaled to size 12.0pt on input line 3.
@@ -775,49 +777,63 @@ LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' will be
  [2
 
 {C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/ebgaramond/ebg_byuyni.enc}]
+\openout2 = `chapters_JP/familiarface.aux'.
+
+ (chapters_JP/familiarface.tex
 Chapter 1.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 28.
+(Font)              scaled to size 10.95pt on input line 1.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 28.
-LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 29.
-LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 24.8675pt on input line 29.
-LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 35.39868pt on input line 29.
-Package lettrine.sty Info: Targeted height = 19.894pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 22.77902pt (L) loversize=0.25;
-(lettrine.sty)             reported on input line 29.
-[3
+(Font)              scaled to size 10.95pt on input line 1.
+LaTeX Font Info:    Trying to load font information for TS1+EBGaramond-OsF on input line 17.
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/ebgaramond\ts1ebgaramond-osf.fd
+File: TS1EBGaramond-OsF.fd 2023/03/19 (autoinst) Font definitions for TS1/EBGaramond-OsF.
+)
+LaTeX Font Info:    Font shape `TS1/EBGaramond-OsF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 17.
+Package microtype Info: Character `textthreeoldstyle ' is missing
+(microtype)             in font `TS1/EBGaramond-OsF/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textfouroldstyle ' is missing
+(microtype)             in font `TS1/EBGaramond-OsF/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textsevenoldstyle ' is missing
+(microtype)             in font `TS1/EBGaramond-OsF/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textlbrackdbl ' is missing
+(microtype)             in font `TS1/EBGaramond-OsF/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textrbrackdbl ' is missing
+(microtype)             in font `TS1/EBGaramond-OsF/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `texttildelow ' is missing
+(microtype)             in font `TS1/EBGaramond-OsF/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+ [3
 
-] [4]
-Chapter 2.
-[5
 
-] 
+{C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/ebgaramond/ebg_yod6vr.enc}]) [4] 
 enddocument/afterlastpage: lastpage setting LastPage.
-(main.aux)
+(main.aux (chapters_JP/familiarface.aux))
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2021/06/17>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: A9C0632361E1D2362C73CB0AAB8C6AE9;136.
+(rerunfilecheck)             Checksum: ED9D8F9A59BA5353B5A191C4B9743D7F;124.
  ) 
 Here is how much of TeX's memory you used:
- 19531 strings out of 475248
- 347913 string characters out of 5758285
+ 19620 strings out of 475248
+ 351016 string characters out of 5758285
  1926785 words of memory out of 5000000
- 40523 multiletter control sequences out of 15000+600000
- 684056 words of font info for 159 fonts, out of 8000000 for 9000
+ 40601 multiletter control sequences out of 15000+600000
+ 672257 words of font info for 155 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
  124i,12n,121p,1258b,531s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb>
-Output written on main.pdf (6 pages, 1723101 bytes).
+Output written on main.pdf (5 pages, 1722616 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 500000)
- 61474 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 67 PDF objects out of 1000 (max. 8388607)
+ 7 named destinations out of 1000 (max. 500000)
+ 57370 words of extra memory for PDF output out of 61914 (max. 10000000)
 
