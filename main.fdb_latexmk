@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1708470287.64232 "d:/MDCBTC V2/My-Driver-cant-be-this-Cute-2/main.tex" "main.pdf" "main" 1708470289.37277 0
+["pdflatex"] 1708541757.10831 "d:/MDCBTC V2/My-Driver-cant-be-this-Cute-2/main.tex" "main.pdf" "main" 1708541758.64936 0
   "C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1708386912 213516 5c7544918c23c3300cb52aa66d6bebb7 ""
   "C:/Users/user/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1705608908 24141436 9857b39620c4ef71bea58b2f80b3ed1a ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/ebgaramond/ebg_byuyni.enc" 1679250116 3645 7e30a6c2020f6c2e5207ff5bf518ca0f ""
@@ -157,16 +157,16 @@
   "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
-  "chapters_JP/apprentice.aux" 1708470289 1374 ab636a3bf2a078ad4d1efe44f7bb5e36 "pdflatex"
-  "chapters_JP/apprentice.tex" 1708470287 1580 02fb240359c149969bf7f9d57c6bc37b ""
-  "chapters_JP/familiarface.aux" 1708470289 1358 22003b8617bdb4c4db87d5a62124cd70 "pdflatex"
+  "chapters_JP/apprentice.aux" 1708541758 1375 aa83612b725a5980c912a794b4489e16 "pdflatex"
+  "chapters_JP/apprentice.tex" 1708541756 7822 8067bf4517cd88d8b864f7bd7fe83460 ""
+  "chapters_JP/familiarface.aux" 1708541758 1358 22003b8617bdb4c4db87d5a62124cd70 "pdflatex"
   "chapters_JP/familiarface.tex" 1708470287 7263 875c4717d8725d764abe18ec763f9c24 ""
   "d:/MDCBTC V2/My-Driver-cant-be-this-Cute-2/main.tex" 1708469052 1306 bb137fda628e19d08fdfdd1d24cdb44a ""
   "lix.sty" 1708386830 29658 d08c43f28f19e862d62596fc2f049ccb ""
-  "main.aux" 1708470289 975 b86c3b759a87051c52c80352346595aa "pdflatex"
-  "main.out" 1708470289 278 74e3b64fdfa745066c05f91ef8437a7c "pdflatex"
+  "main.aux" 1708541758 980 015658d12395f6bcc782d460637bceaf "pdflatex"
+  "main.out" 1708541758 278 74e3b64fdfa745066c05f91ef8437a7c "pdflatex"
   "main.tex" 1708469052 1306 bb137fda628e19d08fdfdd1d24cdb44a ""
-  "main.toc" 1708470289 218 fee2570ce9cb0030fe327ea00162f413 "pdflatex"
+  "main.toc" 1708541758 218 fee2570ce9cb0030fe327ea00162f413 "pdflatex"
   "novel.cls" 1708365923 3408 b77d99fcf90538257764f08fee8c0fa6 ""
   "resources/MDCBTC_cover2.png" 1694096686 1646871 2b2a85dc1b99ab317bb3361cb1b26068 ""
   (generated)

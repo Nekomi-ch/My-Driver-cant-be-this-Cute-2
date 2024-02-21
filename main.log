@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.1.18)  20 FEB 2024 23:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.1.18)  21 FEB 2024 18:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -817,12 +817,12 @@ Package microtype Info: Character `texttildelow ' is missing
 
  (chapters_JP/apprentice.tex
 Chapter 2.
-) [7
+[7
 
 
 
 
-] 
+] [8] [9]) [10] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (main.aux (chapters_JP/familiarface.aux) (chapters_JP/apprentice.aux))
  ***********
@@ -833,17 +833,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 74E3B64FDFA745066C05F91EF8437A7C;278.
  ) 
 Here is how much of TeX's memory you used:
- 19684 strings out of 475248
- 352759 string characters out of 5758285
+ 19711 strings out of 475248
+ 353492 string characters out of 5758285
  1926785 words of memory out of 5000000
  40621 multiletter control sequences out of 15000+600000
- 675381 words of font info for 177 fonts, out of 8000000 for 9000
+ 677653 words of font info for 193 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
  124i,12n,121p,1238b,531s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb>
-Output written on main.pdf (8 pages, 1733801 bytes).
+Output written on main.pdf (11 pages, 1743420 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
- 11 named destinations out of 1000 (max. 500000)
+ 99 PDF objects out of 1000 (max. 8388607)
+ 14 named destinations out of 1000 (max. 500000)
  57378 words of extra memory for PDF output out of 61914 (max. 10000000)
 
