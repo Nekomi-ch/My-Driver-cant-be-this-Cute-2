@@ -264,6 +264,9 @@ INPUT chapters_JP\familiarface.aux
 INPUT .\chapters_JP\apprentice.aux
 INPUT .\chapters_JP\apprentice.aux
 INPUT chapters_JP\apprentice.aux
+INPUT .\chapters_JP\outshining.aux
+INPUT .\chapters_JP\outshining.aux
+INPUT chapters_JP\outshining.aux
 OUTPUT main.aux
 INPUT .\main.out
 INPUT .\main.out
@@ -355,6 +358,11 @@ OUTPUT chapters_JP\apprentice.aux
 INPUT .\chapters_JP\apprentice.tex
 INPUT .\chapters_JP\apprentice.tex
 INPUT chapters_JP\apprentice.tex
+INPUT .\chapters_JP\outshining.tex
+OUTPUT chapters_JP\outshining.aux
+INPUT .\chapters_JP\outshining.tex
+INPUT .\chapters_JP\outshining.tex
+INPUT chapters_JP\outshining.tex
 INPUT main.aux
 INPUT .\chapters_JP\familiarface.aux
 INPUT .\chapters_JP\familiarface.aux
@@ -362,6 +370,9 @@ INPUT chapters_JP\familiarface.aux
 INPUT .\chapters_JP\apprentice.aux
 INPUT .\chapters_JP\apprentice.aux
 INPUT chapters_JP\apprentice.aux
+INPUT .\chapters_JP\outshining.aux
+INPUT .\chapters_JP\outshining.aux
+INPUT chapters_JP\outshining.aux
 INPUT .\main.out
 INPUT .\main.out
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\type1\public\ebgaramond\EBGaramond-Bold.pfb

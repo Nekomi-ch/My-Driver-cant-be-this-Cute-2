@@ -2,4 +2,5 @@
 \babel@toc {english}{}\relax 
 \contentsline {chapter}{\numberline {1}A Familiar Face}{3}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Master and Apprentice}{7}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Outshining the Master}{11}{chapter.3}%
 \contentsfinish 

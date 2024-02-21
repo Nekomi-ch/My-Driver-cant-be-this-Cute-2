@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.1.18)  21 FEB 2024 18:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.1.18)  21 FEB 2024 23:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -615,7 +615,7 @@ File: T1EBGaramond-OsF.fd 2023/03/19 (autoinst) Font definitions for T1/EBGaramo
 )
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 26.
- (main.aux (chapters_JP/familiarface.aux) (chapters_JP/apprentice.aux))
+ (main.aux (chapters_JP/familiarface.aux) (chapters_JP/apprentice.aux) (chapters_JP/outshining.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
@@ -736,7 +736,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 26.
-<resources/MDCBTC_cover2.png, id=14, 619.45714pt x 825.94286pt>
+<resources/MDCBTC_cover2.png, id=18, 619.45714pt x 825.94286pt>
 File: resources/MDCBTC_cover2.png Graphic file (type png)
 <use resources/MDCBTC_cover2.png>
 Package pdftex.def Info: resources/MDCBTC_cover2.png  used on input line 26.
@@ -822,28 +822,38 @@ Chapter 2.
 
 
 
-] [8] [9]) [10] 
+] [8] [9]) [10]
+\openout2 = `chapters_JP/outshining.aux'.
+
+ (chapters_JP/outshining.tex
+Chapter 3.
+[11
+
+
+
+
+] [12] [13]) [14] 
 enddocument/afterlastpage: lastpage setting LastPage.
-(main.aux (chapters_JP/familiarface.aux) (chapters_JP/apprentice.aux))
+(main.aux (chapters_JP/familiarface.aux) (chapters_JP/apprentice.aux) (chapters_JP/outshining.aux))
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2021/06/17>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 74E3B64FDFA745066C05F91EF8437A7C;278.
+(rerunfilecheck)             Checksum: 1CD07709F83BC7ABE7DE700621B83D1A;432.
  ) 
 Here is how much of TeX's memory you used:
- 19711 strings out of 475248
- 353492 string characters out of 5758285
+ 19764 strings out of 475248
+ 355217 string characters out of 5758285
  1926785 words of memory out of 5000000
- 40621 multiletter control sequences out of 15000+600000
- 677653 words of font info for 193 fonts, out of 8000000 for 9000
+ 40641 multiletter control sequences out of 15000+600000
+ 679467 words of font info for 207 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
  124i,12n,121p,1238b,531s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb>
-Output written on main.pdf (11 pages, 1743420 bytes).
+Output written on main.pdf (15 pages, 1755835 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
- 14 named destinations out of 1000 (max. 500000)
- 57378 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 122 PDF objects out of 1000 (max. 8388607)
+ 19 named destinations out of 1000 (max. 500000)
+ 57386 words of extra memory for PDF output out of 61914 (max. 10000000)
 
