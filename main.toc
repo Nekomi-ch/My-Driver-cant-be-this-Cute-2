@@ -4,4 +4,5 @@
 \contentsline {chapter}{\numberline {2}Master and Apprentice}{7}{chapter.2}%
 \contentsline {chapter}{\numberline {3}Outshining the Master}{11}{chapter.3}%
 \contentsline {chapter}{\numberline {4}Blue}{15}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Project No. 41}{18}{chapter.5}%
 \contentsfinish 
