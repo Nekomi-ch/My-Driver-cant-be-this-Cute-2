@@ -1,17 +1,20 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.27)  4 MAY 2024 13:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/nixos.org) (preloaded format=pdflatex 1980.1.1)  13 AUG 2024 04:49
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/MDCBTC V2/My-Driver-cant-be-this-Cute-2/main.tex"
-(d:/MDCBTC V2/My-Driver-cant-be-this-Cute-2/main.tex
+**main.tex
+(./main.tex
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-02-13>
-(novel.cls
+L3 programming layer <2024-02-20>
+(./novel.cls
 Document Class: novel 2023/02/10 For works of fiction
-(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/base/book.cls
 Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
-(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/base/bk12.clo
 File: bk12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count188
@@ -26,60 +29,101 @@ File: bk12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (lix.sty
+) (./lix.sty
 Package: lix 2023/02/10 Meta-package for easy writing
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/tocbibind\tocbibind.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/tocbibind/tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
 Package tocbibind Info: The document has chapter divisions on input line 50.
 
 
 Package tocbibind Note: Using chapter style headings, unless overridden.
 
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/parskip/parskip.sty
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+))
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count197
-)) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+))
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/hyperref/hyperref.sty
 Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+))
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/hyperref/nameref.sty
 Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count198
@@ -87,15 +131,21 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 \@linkdim=\dimen141
 \Hy@linkcounter=\count199
 \Hy@pagecounter=\count266
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/hyperref/pd1enc.def
 File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count267
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/hyperref/puenc.def
 File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -108,16 +158,23 @@ Package hyperref Info: Backreferencing OFF on input line 4199.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4446.
 \c@Hy@tempcnt=\count268
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4784.
 \XeTeXLinkMargin=\dimen142
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
 ))
 \Fld@menulength=\count269
 \Field@Width=\dimen143
@@ -129,7 +186,9 @@ Package hyperref Info: backreferencing OFF on input line 6078.
 Package hyperref Info: Link coloring OFF on input line 6083.
 Package hyperref Info: Link coloring with OCG OFF on input line 6088.
 Package hyperref Info: PDF/A mode OFF on input line 6093.
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
@@ -138,23 +197,35 @@ package with kernel methods
 \c@Hfootnote=\count272
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/hyperref/hpdftex.def
 File: hpdftex.def 2024-01-20 v7.01h Hyperref driver for pdfTeX
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
 with kernel methods
 )
 \Fld@listcount=\count273
 \c@bookmark@seq@number=\count274
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
 )
 \Hy@SectionHShift=\skip50
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/microtype/microtype.sty
 Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
 \MT@toks=\toks20
 \MT@tempbox=\box51
@@ -167,16 +238,23 @@ LaTeX Info: Redefining \textls on input line 1368.
 \MT@outer@kern=\dimen145
 LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
 \MT@listname@count=\count276
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdftex.def
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
+
 LaTeX Info: Redefining \lsstyle on input line 902.
 LaTeX Info: Redefining \lslig on input line 902.
 \MT@outer@space=\skip51
 )
 Package microtype Info: Loading configuration file microtype.cfg.
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/microtype/microtype.cfg
 File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
-)) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+))
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/tools/multicol.sty
 Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \c@tracingmulticols=\count277
 \mult@box=\box52
@@ -245,23 +323,38 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \mult@nat@firstbox=\box96
 \colbreak@box=\box97
 \mc@col@check@num=\count286
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/lastpage/lastpage.sty
 Package: lastpage 2023/10/14 v2.0e lastpage: 2.09 or 2e? (HMM)
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.sty
-Package: lastpage2e 2023/10/14 v2.0e Decide which 2e lastpage version to use (HMM)
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemodern.sty
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/lastpage/lastpage2e.sty
+Package: lastpage2e 2023/10/14 v2.0e Decide which 2e lastpage version to use (H
+MM)
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/lastpage/lastpagemodern.sty
 Package: lastpagemodern 2023-10-14 v2.0e Refers to last page's name (HMM; JPG)
 \c@lastpagecount=\count287
 ) 
-)) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+))
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/xcolor/xcolor.sty
 Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/graphics-def/pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
 Package xcolor Info: Model `RGB' extended on input line 1366.
@@ -271,17 +364,27 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2024-02-13 L3 programming layer (loader) 
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/l3packages/xparse/xparse.sty
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/l3kernel/expl3.sty
+Package: expl3 2024-02-20 L3 programming layer (loader) 
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count288
 \l__pdf_internal_box=\box98
 ))
-Package: xparse 2024-02-13 L3 Experimental document command parser
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: xparse 2024-02-18 L3 Experimental document command parser
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen155
 \captionmargin=\dimen156
@@ -296,66 +399,116 @@ Package caption Info: Standard document class detected.
 \c@caption@flags=\count289
 \c@continuedfloat=\count290
 Package caption Info: hyperref package is loaded.
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count291
 \float@exts=\toks22
 \float@box=\box99
 \@float@everytoks=\toks23
 \@floatcapt=\box100
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 )
 \Gin@req@height=\dimen163
 \Gin@req@width=\dimen164
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/svg\svg.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/svg/svg.sty
 Package: svg 2020/11/26 v2.02k (include SVG pictures)
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.sty
-Package: scrbase 2023/07/07 v3.41 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.sty
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/koma-script/scrbase.sty
+Package: scrbase 2023/07/07 v3.41 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/koma-script/scrlfile.sty
 Package: scrlfile 2023/07/07 v3.41 KOMA-Script package (file load hooks)
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-hook.sty
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/koma-script/scrlfile-hook.sty
 Package: scrlfile-hook 2023/07/07 v3.41 KOMA-Script package (using LaTeX hooks)
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
+
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/koma-script/scrlogo.sty
 Package: scrlogo 2023/07/07 v3.41 KOMA-Script package (logo)
 )))
 Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
-Already applied: [0000/00/00] Usage of raw or classic option list on input line 368.
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.sty
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/tools\shellesc.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/tools/shellesc.sty
 Package: shellesc 2023/07/08 v1.0d unified shell escape interface for LaTeX
 Package shellesc Info: Restricted shell escape enabled on input line 77.
 )
 \c@svg@param@lastpage=\count292
 \svg@box=\box101
 \c@svg@param@currpage=\count293
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/transparent\transparent.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/transparent/transparent.sty
 Package: transparent 2022-10-27 v1.5 Transparency with color stacks
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/transparent\transparent-nometadata.sty
-Package: transparent-nometadata 2022-10-27 v1.5 Transparency via pdfTeX's color stack (HO)
-)) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/transparent/transparent-nometadata.sty
+Package: transparent-nometadata 2022-10-27 v1.5 Transparency via pdfTeX's color
+ stack (HO)
+))
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/pgf/systemlayer/pgfsys.sty
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/pgf/utilities/pgfrcs.sty
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks24
 \pgfutil@tempdima=\dimen165
 \pgfutil@tempdimb=\dimen166
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box102
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/pgf/utilities/pgfrcs.code.tex
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/pgf/pgf.revision.tex)
 Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
-)) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+))
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks25
 \pgfkeys@temptoks=\toks26
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/pgf/utilities/pgfkeyslibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks27
 ))
 \pgf@x=\dimen167
@@ -378,22 +531,35 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 \t@pgf@tokb=\toks29
 \t@pgf@tokc=\toks30
 \pgf@sys@id@count=\count298
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
 Driver file for pgf: pgfsys-pdftex.def
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/pgf/systemlayer/pgfsys-pdftex.def
 File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
-))) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+)))
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfsyssoftpath@smallbuffer@items=\count299
 \pgfsyssoftpath@bigbuffer@items=\count300
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+))
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
 \f@nch@headwidth=\skip54
 \f@nch@O@elh=\skip55
 \f@nch@O@erh=\skip56
@@ -403,9 +569,13 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@erf=\skip60
 \f@nch@O@olf=\skip61
 \f@nch@O@orf=\skip62
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/gs1\GS1.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/gs1/GS1.sty
 Package: GS1 2021/06/17 v23 GS1 code handler and barcode generator
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/gs1\rule-D.sty
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/gs1/rule-D.sty
 Package: rule-D 2021/06/17 v23 experimental~L3~rule~functions
 )
 \c__GS_module_min_width_dim=\dimen177
@@ -413,9 +583,13 @@ Package: rule-D 2021/06/17 v23 experimental~L3~rule~functions
 \l_GS_module_wd_dim=\dimen179
 \l_GS_module_ht_dim=\dimen180
 \l_GS_code_size_int=\count301
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count302
@@ -430,11 +604,15 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen187
 \Gm@layoutvoffset=\dimen188
 \Gm@dimlist=\toks31
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/ulem\ulem.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/ulem/ulem.sty
 \UL@box=\box103
 \UL@hyphenbox=\box104
 \UL@skip=\skip63
@@ -445,10 +623,14 @@ Package: cite 2015/02/27  v 5.5
 \ULC@box=\box105
 Package: ulem 2019/11/18
 \ULdepth=\dimen191
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/lettrine\lettrine.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/lettrine/lettrine.sty
 File: lettrine.sty 2024-01-20 v2.60 (Daniel Flipo)
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xfp\xfp.sty
-Package: xfp 2024-02-13 L3 Floating point unit
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/l3packages/xfp/xfp.sty
+Package: xfp 2024-02-18 L3 Floating point unit
 )
 \c@DefaultLines=\count306
 \c@DefaultDepth=\count307
@@ -479,27 +661,48 @@ Package: xfp 2024-02-13 L3 Floating point unit
 \LettrineDepth=\dimen267
 
 Loading lettrine.cfg
-(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/lettrine\lettrine.cfg)
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/lettrine/lettrine.cfg)
 \Llist@everypar=\toks33
-)) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/ebgaramond\ebgaramond.sty
-Package: ebgaramond 2022/09/10 (Bob Tennent and autoinst) Style file for EB Garamond fonts.
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
+))
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/ebgaramond/ebgaramond.sty
+Package: ebgaramond 2022/09/10 (Bob Tennent and autoinst) Style file for EB Gar
+amond fonts.
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/xkeyval/xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/xkeyval/xkeyval.tex
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/xkeyval/xkvutils.tex
 \XKV@toks=\toks34
 \XKV@tempa@toks=\toks35
 )
 \XKV@depth=\count310
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+))
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/fontaxes/fontaxes.sty
 Package: fontaxes 2020/07/21 v1.0e Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
 LaTeX Info: Redefining \itshape on input line 31.
@@ -515,10 +718,15 @@ LaTeX Info: Redefining \textulc on input line 49.
 LaTeX Info: Redefining \oldstylenums on input line 161.
 LaTeX Info: Redefining \textin on input line 163.
 LaTeX Info: Redefining \textsw on input line 169.
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/silence\silence.sty
-Package: silence 2012/07/02 v1.5b Selective filtering of warnings and error messages
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/silence/silence.sty
+Package: silence 2012/07/02 v1.5b Selective filtering of warnings and error mes
+sages
 \sl@Save=\count311
 \sl@StateNumber=\count312
 \sl@MessageCount=\count313
@@ -539,7 +747,9 @@ LaTeX Info: Redefining \GenericWarning on input line 433.
 \sl@TempBOE=\toks42
 \sl@BankOfErrors=\toks43
 LaTeX Info: Redefining \GenericError on input line 601.
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/titlesec/titlesec.sty
 Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \ttl@box=\box109
 \beforetitleunit=\skip64
@@ -550,53 +760,72 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \titlewidth=\dimen270
 \titlewidthlast=\dimen271
 \titlewidthfirst=\dimen272
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titletoc.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/titlesec/titletoc.sty
 Package: titletoc 2023/10/27 v2.16 TOC entries
 \ttl@leftsep=\dimen273
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/titling\titling.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/titling/titling.sty
 Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmarkwidth=\skip66
 \thanksmargin=\skip67
 \droptitle=\skip68
-)) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty
+))
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/psnfss/helvet.sty
 Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/babel/babel.sty
 Package: babel 2024/02/07 v24.2 The Babel package
 \babel@savecnt=\count321
 \U@D=\dimen274
-\l@unhyphenated=\language79
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\l@unhyphenated=\language89
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/babel/txtbabel.def)
 \bbl@readstream=\read3
 \bbl@dirlevel=\count322
 
-*************************************
-* Local config file bblopts.cfg used
-*
-(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
 Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language73). Reported on input line 105.
+(babel)             (\language23). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language73). Reported on input line 108.
-)) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-english.tex
+(babel)             (\language23). Reported on input line 108.
+))
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/babel/locale/en/babel-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/eso-pic/eso-pic.sty
 Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
 \ESO@tempdima=\dimen275
 \ESO@tempdimb=\dimen276
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/numspell\numspell.sty
-Package: numspell 2021/11/23 v1.5 Package for spelling cardinal and ordinal numbers
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/numspell/numspell.sty
+Package: numspell 2021/11/23 v1.5 Package for spelling cardinal and ordinal num
+bers
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/xstring/xstring.sty
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/xstring/xstring.tex
 \xs_counta=\count323
 \xs_countb=\count324
 )
 Package: xstring 2023/08/22 v1.86 String manipulations (CT)
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/oberdiek\iflang.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/gen
+eric/oberdiek/iflang.sty
 Package: iflang 2018/01/21 v1.7 Checks for the current language (HO)
 Package iflang Info: Naming convention for patterns: babel.
 )
@@ -604,59 +833,74 @@ Package iflang Info: Naming convention for patterns: babel.
 \c@numspell@counter@tempb=\count326
 \c@numspell@counter@tempc=\count327
 \c@numspell@groupcount=\count328
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/numspell\numspell-english.sty
-Package: numspell-english 2020/11/11 v1.2 English language package for numspell
 )
-LaTeX Font Info:    Trying to load font information for T1+EBGaramond-OsF on input line 26.
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/ebgaramond\t1ebgaramond-osf.fd
-File: T1EBGaramond-OsF.fd 2023/03/19 (autoinst) Font definitions for T1/EBGaramond-OsF.
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/numspell/numspell-english.sty
+Package: numspell-english 2020/11/11 v1.2 English language package for numspell
+
+)
+LaTeX Font Info:    Trying to load font information for T1+EBGaramond-OsF on in
+put line 27.
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/ebgaramond/T1EBGaramond-OsF.fd
+File: T1EBGaramond-OsF.fd 2023/03/19 (autoinst) Font definitions for T1/EBGaram
+ond-OsF.
 )
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 26.
- (main.aux (chapters_JP/familiarface.aux) (chapters_JP/apprentice.aux) (chapters_JP/outshining.aux) (chapters_JP/blue.aux) (chapters_JP/ProjectNo41.aux))
+(Font)              scaled to size 12.0pt on input line 27.
+ (./main.aux (./chapters_Intro/beninging.aux) (./chapters_JP/familiarface.aux) 
+(./chapters_JP/apprentice.aux)
+(./chapters_JP/outshining.aux) (./chapters_JP/blue.aux)
+(./chapters_JP/ProjectNo41.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-Package hyperref Info: Link coloring OFF on input line 26.
- (main.out) (main.out)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+Package hyperref Info: Link coloring OFF on input line 27.
+ (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
-LaTeX Info: Redefining \microtypecontext on input line 26.
-Package microtype Info: Applying patch `item' on input line 26.
-Package microtype Info: Applying patch `toc' on input line 26.
-Package microtype Info: Applying patch `eqnum' on input line 26.
-Package microtype Info: Applying patch `verbatim' on input line 26.
+LaTeX Info: Redefining \microtypecontext on input line 27.
+Package microtype Info: Applying patch `item' on input line 27.
+Package microtype Info: Applying patch `toc' on input line 27.
+Package microtype Info: Applying patch `eqnum' on input line 27.
+Package microtype Info: Applying patch `verbatim' on input line 27.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 26.
+LaTeX Info: Redefining \showhyphens on input line 27.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-EBGaramond.cfg
-File: mt-EBGaramond.cfg 2021/10/25 v2.0 microtype config. file: EB Garamond / Adobe Garamond (RS)
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/microtype/mt-EBGaramond.cfg
+File: mt-EBGaramond.cfg 2021/10/25 v2.0 microtype config. file: EB Garamond / A
+dobe Garamond (RS)
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/con
+text/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count329
 \scratchdimen=\dimen277
@@ -669,11 +913,17 @@ File: mt-EBGaramond.cfg 2021/10/25 v2.0 microtype config. file: EB Garamond / Ad
 \MPnumerator=\count333
 \makeMPintoPDFobject=\count334
 \everyMPtoPDFconversion=\toks46
-) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+)
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
@@ -716,56 +966,64 @@ Package caption Info: End \AtBeginDocument code.
 \c@mv@tabular=\count335
 \c@mv@boldtabular=\count336
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 26.
+(Font)              scaled to size 20.74pt on input line 27.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 26.
+(Font)              scaled to size 24.88pt on input line 27.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 26.
+(Font)              scaled to size 24.88pt on input line 27.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/sc' will be
-(Font)              scaled to size 24.88pt on input line 26.
+(Font)              scaled to size 24.88pt on input line 27.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 26.
+(Font)              scaled to size 14.4pt on input line 27.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/sc' will be
-(Font)              scaled to size 14.4pt on input line 26.
-(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+(Font)              scaled to size 14.4pt on input line 27.
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 26.
+(Font)              <14.4> on input line 27.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 26.
-<resources/MDCBTC_cover2.png, id=26, 619.45714pt x 825.94286pt>
+(Font)              <7> on input line 27.
+<resources/MDCBTC_cover2.png, id=31, 619.45714pt x 825.94286pt>
 File: resources/MDCBTC_cover2.png Graphic file (type png)
 <use resources/MDCBTC_cover2.png>
-Package pdftex.def Info: resources/MDCBTC_cover2.png  used on input line 26.
+Package pdftex.def Info: resources/MDCBTC_cover2.png  used on input line 27.
 (pdftex.def)             Requested size: 614.3042pt x 794.96301pt.
  [1
 
 
  <./resources/MDCBTC_cover2.png (PNG copy)>]
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 26.
+(Font)              scaled to size 10.0pt on input line 27.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' will be
-(Font)              scaled to size 14.4pt on input line 26.
+(Font)              scaled to size 14.4pt on input line 27.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 26.
+(Font)              scaled to size 12.0pt on input line 27.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 26.
+(Font)              <5> on input line 27.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 26.
+(Font)              scaled to size 10.0pt on input line 27.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.26 \begin{document}
+l.27 \begin{document}
                       [1
 
-{C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/ebgaramond/ebg_ljow5q.enc}{C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/ebgaramond/ebg_tcdnmr.enc}]
+{/nix/store/6mwwagllxf2cnjrn6yp9vm5f1ifaw32i-texlive-2023-env/share/texmf-var/f
+onts/map/pdftex/updmap/pdftex.map}{/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-
+texlive-2023-env-texmfdist/fonts/enc/dvips/ebgaramond/ebg_ljow5q.enc}{/nix/stor
+e/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/fonts/enc/dvips/e
+bgaramond/ebg_tcdnmr.enc}]
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' will be
-(Font)              scaled to size 20.74pt on input line 30.
+(Font)              scaled to size 20.74pt on input line 31.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/sc' will be
-(Font)              scaled to size 20.74pt on input line 30.
- (main.toc
+(Font)              scaled to size 20.74pt on input line 31.
+ (./main.toc
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' will be
 (Font)              scaled to size 12.0pt on input line 3.
 )
@@ -774,18 +1032,31 @@ LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' will be
 
  [2
 
-{C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/ebgaramond/ebg_byuyni.enc}]
-\openout2 = `chapters_JP/familiarface.aux'.
+{/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/fonts/e
+nc/dvips/ebgaramond/ebg_byuyni.enc}]
+\openout2 = `chapters_Intro/beninging.aux'.
 
- (chapters_JP/familiarface.tex
+ (./chapters_Intro/beninging.tex
 Chapter 1.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 1.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/sc' will be
 (Font)              scaled to size 10.95pt on input line 1.
-LaTeX Font Info:    Trying to load font information for TS1+EBGaramond-OsF on input line 17.
-(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/ebgaramond\ts1ebgaramond-osf.fd
-File: TS1EBGaramond-OsF.fd 2023/03/19 (autoinst) Font definitions for TS1/EBGaramond-OsF.
+) [3
+
+
+]
+\openout2 = `chapters_JP/familiarface.aux'.
+
+ (./chapters_JP/familiarface.tex
+Chapter 2.
+LaTeX Font Info:    Trying to load font information for TS1+EBGaramond-OsF on i
+nput line 17.
+
+(/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/tex/lat
+ex/ebgaramond/TS1EBGaramond-OsF.fd
+File: TS1EBGaramond-OsF.fd 2023/03/19 (autoinst) Font definitions for TS1/EBGar
+amond-OsF.
 )
 LaTeX Font Info:    Font shape `TS1/EBGaramond-OsF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 17.
@@ -807,71 +1078,82 @@ Package microtype Info: Character `textrbrackdbl ' is missing
 Package microtype Info: Character `texttildelow ' is missing
 (microtype)             in font `TS1/EBGaramond-OsF/m/n/12'.
 (microtype)             Ignoring protrusion settings for this character.
- [3
+ [4
 
 
-{C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/ebgaramond/ebg_yod6vr.enc}] [4] [5]) [6]
+
+
+{/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/fonts/e
+nc/dvips/ebgaramond/ebg_yod6vr.enc}]
+[5] [6]) [7]
 \openout2 = `chapters_JP/apprentice.aux'.
 
- (chapters_JP/apprentice.tex
-Chapter 2.
-[7
+ (./chapters_JP/apprentice.tex
+Chapter 3.
+[8
 
 
 
 
-] [8] [9]) [10]
+] [9] [10]) [11]
 \openout2 = `chapters_JP/outshining.aux'.
 
- (chapters_JP/outshining.tex
-Chapter 3.
-[11
+ (./chapters_JP/outshining.tex
+Chapter 4.
+[12
 
 
 
 
-] [12] [13]) [14]
+] [13] [14]) [15]
 \openout2 = `chapters_JP/blue.aux'.
 
- (chapters_JP/blue.tex
-Chapter 4.
-[15
+ (./chapters_JP/blue.tex
+Chapter 5.
+[16
 
 
 
 
-] [16]) [17]
+] [17]) [18]
 \openout2 = `chapters_JP/ProjectNo41.aux'.
 
- (chapters_JP/ProjectNo41.tex
-Chapter 5.
-) [18
+ (./chapters_JP/ProjectNo41.tex
+Chapter 6.
+) [19
 
 
 
 
 ] 
 enddocument/afterlastpage: lastpage setting LastPage.
-(main.aux (chapters_JP/familiarface.aux) (chapters_JP/apprentice.aux) (chapters_JP/outshining.aux) (chapters_JP/blue.aux) (chapters_JP/ProjectNo41.aux))
+(./main.aux (./chapters_Intro/beninging.aux) (./chapters_JP/familiarface.aux)
+(./chapters_JP/apprentice.aux) (./chapters_JP/outshining.aux)
+(./chapters_JP/blue.aux) (./chapters_JP/ProjectNo41.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2021/06/17>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: EB4095019A237D0717659A94CDB9DB54;614.
+(rerunfilecheck)             Checksum: 212052409F182FE86104D6E8161AB9DA;715.
  ) 
 Here is how much of TeX's memory you used:
- 19813 strings out of 474462
- 358007 string characters out of 5743355
- 1933998 words of memory out of 5000000
- 41460 multiletter control sequences out of 15000+600000
+ 19827 strings out of 474116
+ 365827 string characters out of 5720541
+ 1934187 words of memory out of 5000000
+ 41521 multiletter control sequences out of 15000+600000
  679467 words of font info for 207 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
- 124i,12n,121p,1238b,535s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb>
-Output written on main.pdf (19 pages, 1767282 bytes).
+ 124i,12n,121p,1193b,535s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/fonts
+/type1/public/ebgaramond/EBGaramond-Bold.pfb></nix/store/hq5zaw5vg3jrz0gkk3xykj
+z0jqnh3807-texlive-2023-env-texmfdist/fonts/type1/public/ebgaramond/EBGaramond-
+Italic.pfb></nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfd
+ist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb>
+Output written on main.pdf (20 pages, 1755089 bytes).
 PDF statistics:
- 150 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 500000)
- 57402 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 162 PDF objects out of 1000 (max. 8388607)
+ 128 compressed objects within 2 object streams
+ 27 named destinations out of 1000 (max. 500000)
+ 57410 words of extra memory for PDF output out of 61914 (max. 10000000)
 
