@@ -345,6 +345,8 @@ INPUT /nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/fon
 INPUT /nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/fonts/tfm/public/ebgaramond/EBGaramond-Regular-osf-sc-t1--base.tfm
 INPUT /nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/fonts/vf/public/ebgaramond/EBGaramond-Regular-osf-t1.vf
 INPUT /nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/fonts/tfm/public/ebgaramond/EBGaramond-Regular-osf-t1--base.tfm
+INPUT /nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/fonts/vf/public/ebgaramond/EBGaramond-Regular-osf-sc-t1.vf
+INPUT /nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/fonts/tfm/public/ebgaramond/EBGaramond-Regular-osf-sc-t1--base.tfm
 INPUT ./chapters_JP/familiarface.tex
 OUTPUT chapters_JP/familiarface.aux
 INPUT ./chapters_JP/familiarface.tex
@@ -357,8 +359,6 @@ INPUT /nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/fon
 INPUT /nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/fonts/vf/public/ebgaramond/EBGaramond-Regular-osf-ts1.vf
 INPUT /nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/fonts/tfm/public/ebgaramond/EBGaramond-Regular-osf-ts1--base.tfm
 INPUT /nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/fonts/enc/dvips/ebgaramond/ebg_yod6vr.enc
-INPUT /nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/fonts/vf/public/ebgaramond/EBGaramond-Regular-osf-sc-t1.vf
-INPUT /nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/fonts/tfm/public/ebgaramond/EBGaramond-Regular-osf-sc-t1--base.tfm
 INPUT ./chapters_JP/apprentice.tex
 OUTPUT chapters_JP/apprentice.aux
 INPUT ./chapters_JP/apprentice.tex
