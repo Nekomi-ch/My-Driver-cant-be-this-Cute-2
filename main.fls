@@ -1,4 +1,4 @@
-PWD /home/nekomi/MDCBTC2/My-Driver-cant-be-this-Cute-2
+PWD /home/nekomi/My-Driver-cant-be-this-Cute-2
 INPUT /nix/store/6mwwagllxf2cnjrn6yp9vm5f1ifaw32i-texlive-2023-env/share/texmf-var/web2c/texmf.cnf
 INPUT /nix/store/6mwwagllxf2cnjrn6yp9vm5f1ifaw32i-texlive-2023-env/share/texmf-var/web2c/pdftex/pdflatex.fmt
 INPUT main.tex
@@ -270,6 +270,9 @@ INPUT chapters_JP/blue.aux
 INPUT ./chapters_JP/ProjectNo41.aux
 INPUT ./chapters_JP/ProjectNo41.aux
 INPUT chapters_JP/ProjectNo41.aux
+INPUT ./chapters_JP/SweetMorning.aux
+INPUT ./chapters_JP/SweetMorning.aux
+INPUT chapters_JP/SweetMorning.aux
 OUTPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
@@ -379,6 +382,11 @@ OUTPUT chapters_JP/ProjectNo41.aux
 INPUT ./chapters_JP/ProjectNo41.tex
 INPUT ./chapters_JP/ProjectNo41.tex
 INPUT chapters_JP/ProjectNo41.tex
+INPUT ./chapters_JP/SweetMorning.tex
+OUTPUT chapters_JP/SweetMorning.aux
+INPUT ./chapters_JP/SweetMorning.tex
+INPUT ./chapters_JP/SweetMorning.tex
+INPUT chapters_JP/SweetMorning.tex
 INPUT main.aux
 INPUT ./chapters_Intro/beninging.aux
 INPUT ./chapters_Intro/beninging.aux
@@ -398,6 +406,9 @@ INPUT chapters_JP/blue.aux
 INPUT ./chapters_JP/ProjectNo41.aux
 INPUT ./chapters_JP/ProjectNo41.aux
 INPUT chapters_JP/ProjectNo41.aux
+INPUT ./chapters_JP/SweetMorning.aux
+INPUT ./chapters_JP/SweetMorning.aux
+INPUT chapters_JP/SweetMorning.aux
 INPUT ./main.out
 INPUT ./main.out
 INPUT /nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb

@@ -6,4 +6,5 @@
 \contentsline {chapter}{\numberline {4}Outshining the Master}{14}{chapter.4}%
 \contentsline {chapter}{\numberline {5}Blue}{18}{chapter.5}%
 \contentsline {chapter}{\numberline {6}Project No. 41}{21}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Sweet Morning}{25}{chapter.7}%
 \contentsfinish 
