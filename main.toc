@@ -1,10 +1,11 @@
 \thispagestyle {empty}
 \babel@toc {english}{}\relax 
 \contentsline {chapter}{\numberline {1}Defying Orders}{3}{chapter.1}%
-\contentsline {chapter}{\numberline {2}A Familiar Face}{6}{chapter.2}%
-\contentsline {chapter}{\numberline {3}Master and Apprentice}{10}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Outshining the Master}{14}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Blue}{18}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Project No. 41}{21}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Sweet Morning}{25}{chapter.7}%
+\contentsline {chapter}{\numberline {2}Recruitment}{6}{chapter.2}%
+\contentsline {chapter}{\numberline {3}A Familiar Face}{9}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Master and Apprentice}{13}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Outshining the Master}{17}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Blue}{21}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Project No. 41}{24}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Sweet Morning}{28}{chapter.8}%
 \contentsfinish 
