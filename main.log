@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/nixos.org) (preloaded format=pdflatex 1980.1.1)  18 SEP 2024 23:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/nixos.org) (preloaded format=pdflatex 1980.1.1)  23 SEP 2024 23:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -850,10 +850,10 @@ ond-OsF.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 27.
  (./main.aux (./chapters_Intro/beninging.aux) (./chapters_Intro/recruitment.aux
-) (./chapters_JP/familiarface.aux)
-(./chapters_JP/apprentice.aux) (./chapters_JP/outshining.aux)
-(./chapters_JP/blue.aux) (./chapters_JP/ProjectNo41.aux)
-(./chapters_JP/SweetMorning.aux))
+) (./chapters_Intro/foundation.aux)
+(./chapters_JP/familiarface.aux) (./chapters_JP/apprentice.aux)
+(./chapters_JP/outshining.aux) (./chapters_JP/blue.aux)
+(./chapters_JP/ProjectNo41.aux) (./chapters_JP/SweetMorning.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
@@ -875,7 +875,8 @@ LaTeX Font Info:    ... okay on input line 27.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
 Package hyperref Info: Link coloring OFF on input line 27.
- (./main.out) (./main.out)
+ (./main.out)
+(./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
@@ -988,7 +989,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 27.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 27.
-<resources/MDCBTC_cover2.png, id=39, 619.45714pt x 825.94286pt>
+<resources/MDCBTC_cover2.png, id=43, 619.45714pt x 825.94286pt>
 File: resources/MDCBTC_cover2.png Graphic file (type png)
 <use resources/MDCBTC_cover2.png>
 Package pdftex.def Info: resources/MDCBTC_cover2.png  used on input line 27.
@@ -1057,10 +1058,20 @@ Chapter 2.
 
 
 ]) [7] [8]
+\openout2 = `chapters_Intro/foundation.aux'.
+
+ (./chapters_Intro/foundation.tex
+Chapter 3.
+[9
+
+
+
+
+]) [10]
 \openout2 = `chapters_JP/familiarface.aux'.
 
  (./chapters_JP/familiarface.tex
-Chapter 3.
+Chapter 4.
 LaTeX Font Info:    Trying to load font information for TS1+EBGaramond-OsF on i
 nput line 17.
 
@@ -1089,81 +1100,82 @@ Package microtype Info: Character `textrbrackdbl ' is missing
 Package microtype Info: Character `texttildelow ' is missing
 (microtype)             in font `TS1/EBGaramond-OsF/m/n/12'.
 (microtype)             Ignoring protrusion settings for this character.
- [9
+ [11
 
 
 
 
 {/nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfdist/fonts/e
 nc/dvips/ebgaramond/ebg_yod6vr.enc}]
-[10] [11]) [12]
+[12] [13]) [14]
 \openout2 = `chapters_JP/apprentice.aux'.
 
  (./chapters_JP/apprentice.tex
-Chapter 4.
-[13
+Chapter 5.
+[15
 
 
 
 
-] [14] [15]) [16]
+] [16] [17]) [18]
 \openout2 = `chapters_JP/outshining.aux'.
 
  (./chapters_JP/outshining.tex
-Chapter 5.
-[17
+Chapter 6.
+[19
 
 
 
 
-] [18] [19]) [20]
+] [20] [21]) [22]
 \openout2 = `chapters_JP/blue.aux'.
 
  (./chapters_JP/blue.tex
-Chapter 6.
-[21
+Chapter 7.
+[23
 
 
 
 
-] [22]) [23]
+] [24]) [25]
 \openout2 = `chapters_JP/ProjectNo41.aux'.
 
  (./chapters_JP/ProjectNo41.tex
-Chapter 7.
-[24
+Chapter 8.
+[26
 
 
 
 
-] [25] [26]) [27]
+] [27] [28]) [29]
 \openout2 = `chapters_JP/SweetMorning.aux'.
 
  (./chapters_JP/SweetMorning.tex
-Chapter 8.
-[28
+Chapter 9.
+[30
 
 
 
 
-] [29]) [30] 
+] [31]) [32] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./main.aux (./chapters_Intro/beninging.aux) (./chapters_Intro/recruitment.aux)
-(./chapters_JP/familiarface.aux) (./chapters_JP/apprentice.aux)
-(./chapters_JP/outshining.aux) (./chapters_JP/blue.aux)
-(./chapters_JP/ProjectNo41.aux) (./chapters_JP/SweetMorning.aux))
+(./chapters_Intro/foundation.aux) (./chapters_JP/familiarface.aux)
+(./chapters_JP/apprentice.aux) (./chapters_JP/outshining.aux)
+(./chapters_JP/blue.aux) (./chapters_JP/ProjectNo41.aux)
+(./chapters_JP/SweetMorning.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2021/06/17>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C19CCA0A89296CC95C217F853D354558;939.
+(rerunfilecheck)             Checksum: FFE6FE6ED538E56C2FA6929A36964490;1055.
  ) 
 Here is how much of TeX's memory you used:
- 19894 strings out of 474116
- 367942 string characters out of 5720541
+ 19924 strings out of 474116
+ 368974 string characters out of 5720541
  1935187 words of memory out of 5000000
- 41561 multiletter control sequences out of 15000+600000
+ 41581 multiletter control sequences out of 15000+600000
  679467 words of font info for 207 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
  124i,12n,121p,1193b,535s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1172,10 +1184,10 @@ Here is how much of TeX's memory you used:
 z0jqnh3807-texlive-2023-env-texmfdist/fonts/type1/public/ebgaramond/EBGaramond-
 Italic.pfb></nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfd
 ist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb>
-Output written on main.pdf (31 pages, 1784980 bytes).
+Output written on main.pdf (33 pages, 1788680 bytes).
 PDF statistics:
- 222 PDF objects out of 1000 (max. 8388607)
- 177 compressed objects within 2 object streams
- 40 named destinations out of 1000 (max. 500000)
- 57426 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 236 PDF objects out of 1000 (max. 8388607)
+ 189 compressed objects within 2 object streams
+ 43 named destinations out of 1000 (max. 500000)
+ 57434 words of extra memory for PDF output out of 61914 (max. 10000000)
 

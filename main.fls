@@ -258,6 +258,9 @@ INPUT chapters_Intro/beninging.aux
 INPUT ./chapters_Intro/recruitment.aux
 INPUT ./chapters_Intro/recruitment.aux
 INPUT chapters_Intro/recruitment.aux
+INPUT ./chapters_Intro/foundation.aux
+INPUT ./chapters_Intro/foundation.aux
+INPUT chapters_Intro/foundation.aux
 INPUT ./chapters_JP/familiarface.aux
 INPUT ./chapters_JP/familiarface.aux
 INPUT chapters_JP/familiarface.aux
@@ -358,6 +361,11 @@ OUTPUT chapters_Intro/recruitment.aux
 INPUT ./chapters_Intro/recruitment.tex
 INPUT ./chapters_Intro/recruitment.tex
 INPUT chapters_Intro/recruitment.tex
+INPUT ./chapters_Intro/foundation.tex
+OUTPUT chapters_Intro/foundation.aux
+INPUT ./chapters_Intro/foundation.tex
+INPUT ./chapters_Intro/foundation.tex
+INPUT chapters_Intro/foundation.tex
 INPUT ./chapters_JP/familiarface.tex
 OUTPUT chapters_JP/familiarface.aux
 INPUT ./chapters_JP/familiarface.tex
@@ -402,6 +410,9 @@ INPUT chapters_Intro/beninging.aux
 INPUT ./chapters_Intro/recruitment.aux
 INPUT ./chapters_Intro/recruitment.aux
 INPUT chapters_Intro/recruitment.aux
+INPUT ./chapters_Intro/foundation.aux
+INPUT ./chapters_Intro/foundation.aux
+INPUT chapters_Intro/foundation.aux
 INPUT ./chapters_JP/familiarface.aux
 INPUT ./chapters_JP/familiarface.aux
 INPUT chapters_JP/familiarface.aux
