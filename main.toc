@@ -3,10 +3,10 @@
 \contentsline {chapter}{\numberline {1}Defying Orders}{3}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Recruitment}{6}{chapter.2}%
 \contentsline {chapter}{\numberline {3}The Foundation}{9}{chapter.3}%
-\contentsline {chapter}{\numberline {4}A Familiar Face}{11}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Master and Apprentice}{15}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Outshining the Master}{19}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Blue}{23}{chapter.7}%
-\contentsline {chapter}{\numberline {8}Project No. 41}{26}{chapter.8}%
-\contentsline {chapter}{\numberline {9}Sweet Morning}{30}{chapter.9}%
+\contentsline {chapter}{\numberline {4}A Familiar Face}{12}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Master and Apprentice}{16}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Outshining the Master}{20}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Blue}{24}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Project No. 41}{27}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Sweet Morning}{31}{chapter.9}%
 \contentsfinish 
