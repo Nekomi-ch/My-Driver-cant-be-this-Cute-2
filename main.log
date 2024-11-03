@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/nixos.org) (preloaded format=pdflatex 1980.1.1)  2 NOV 2024 01:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/nixos.org) (preloaded format=pdflatex 1980.1.1)  3 NOV 2024 01:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1137,27 +1137,27 @@ Chapter 7.
 
 
 
-] [25]) [26]
+] [25] [26]) [27]
 \openout2 = `chapters_JP/ProjectNo41.aux'.
 
  (./chapters_JP/ProjectNo41.tex
 Chapter 8.
-[27
+[28
 
 
 
 
-] [28] [29]) [30]
+] [29] [30]) [31]
 \openout2 = `chapters_JP/SweetMorning.aux'.
 
  (./chapters_JP/SweetMorning.tex
 Chapter 9.
-[31
+[32
 
 
 
 
-] [32]) [33] 
+] [33]) [34] [35] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./main.aux (./chapters_Intro/beninging.aux) (./chapters_Intro/recruitment.aux)
 (./chapters_Intro/foundation.aux) (./chapters_JP/familiarface.aux)
@@ -1172,8 +1172,8 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: FFE6FE6ED538E56C2FA6929A36964490;1055.
  ) 
 Here is how much of TeX's memory you used:
- 19925 strings out of 474116
- 368981 string characters out of 5720541
+ 19927 strings out of 474116
+ 368995 string characters out of 5720541
  1935187 words of memory out of 5000000
  41581 multiletter control sequences out of 15000+600000
  679467 words of font info for 207 fonts, out of 8000000 for 9000
@@ -1184,10 +1184,10 @@ Here is how much of TeX's memory you used:
 z0jqnh3807-texlive-2023-env-texmfdist/fonts/type1/public/ebgaramond/EBGaramond-
 Italic.pfb></nix/store/hq5zaw5vg3jrz0gkk3xykjz0jqnh3807-texlive-2023-env-texmfd
 ist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb>
-Output written on main.pdf (34 pages, 1791727 bytes).
+Output written on main.pdf (36 pages, 1795798 bytes).
 PDF statistics:
- 240 PDF objects out of 1000 (max. 8388607)
- 192 compressed objects within 2 object streams
- 44 named destinations out of 1000 (max. 500000)
+ 248 PDF objects out of 1000 (max. 8388607)
+ 198 compressed objects within 2 object streams
+ 46 named destinations out of 1000 (max. 500000)
  57434 words of extra memory for PDF output out of 61914 (max. 10000000)
 

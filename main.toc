@@ -7,6 +7,6 @@
 \contentsline {chapter}{\numberline {5}Master and Apprentice}{16}{chapter.5}%
 \contentsline {chapter}{\numberline {6}Outshining the Master}{20}{chapter.6}%
 \contentsline {chapter}{\numberline {7}Blue}{24}{chapter.7}%
-\contentsline {chapter}{\numberline {8}Project No. 41}{27}{chapter.8}%
-\contentsline {chapter}{\numberline {9}Sweet Morning}{31}{chapter.9}%
+\contentsline {chapter}{\numberline {8}Project No. 41}{28}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Sweet Morning}{32}{chapter.9}%
 \contentsfinish 
